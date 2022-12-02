@@ -1,2 +1,0 @@
-# jonnyadventofcode
-https://adventofcode.com
